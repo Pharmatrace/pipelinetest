@@ -18,8 +18,8 @@ The User Profile endpoint returns information about the PharmaTrace user that ha
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.UserApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.UserApi;
 
 
 UserApi apiInstance = new UserApi();

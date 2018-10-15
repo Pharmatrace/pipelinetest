@@ -21,8 +21,8 @@ Creates a new location
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.LocationsApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.LocationsApi;
 
 
 LocationsApi apiInstance = new LocationsApi();
@@ -66,8 +66,8 @@ deletes a single location based on the ID supplied
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.LocationsApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.LocationsApi;
 
 
 LocationsApi apiInstance = new LocationsApi();
@@ -110,8 +110,8 @@ Returns a location based on the ID
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.LocationsApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.LocationsApi;
 
 
 LocationsApi apiInstance = new LocationsApi();
@@ -155,8 +155,8 @@ Returns all locations from the system that the user has access to Nam sed condim
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.LocationsApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.LocationsApi;
 
 
 LocationsApi apiInstance = new LocationsApi();

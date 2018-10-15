@@ -21,8 +21,8 @@ Creates a new container
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ContainersApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ContainersApi;
 
 
 ContainersApi apiInstance = new ContainersApi();
@@ -66,8 +66,8 @@ deletes a single container based on the ID supplied
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ContainersApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ContainersApi;
 
 
 ContainersApi apiInstance = new ContainersApi();
@@ -110,8 +110,8 @@ Returns a container based on the ID
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ContainersApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ContainersApi;
 
 
 ContainersApi apiInstance = new ContainersApi();
@@ -155,8 +155,8 @@ Returns all containers from the system that the user has access to Nam sed condi
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ContainersApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ContainersApi;
 
 
 ContainersApi apiInstance = new ContainersApi();

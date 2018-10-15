@@ -21,8 +21,8 @@ Creates a new activity
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ActivitysApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ActivitysApi;
 
 
 ActivitysApi apiInstance = new ActivitysApi();
@@ -66,8 +66,8 @@ deletes a single activity based on the ID supplied
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ActivitysApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ActivitysApi;
 
 
 ActivitysApi apiInstance = new ActivitysApi();
@@ -110,8 +110,8 @@ Returns a activity based on the ID
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ActivitysApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ActivitysApi;
 
 
 ActivitysApi apiInstance = new ActivitysApi();
@@ -155,8 +155,8 @@ Returns all activitys from the system that the user has access to Nam sed condim
 ### Example
 ```java
 // Import classes:
-//import org.openapitools.client.ApiException;
-//import org.openapitools.client.api.ActivitysApi;
+//import io.pharmatrace.api.scin.public.ApiException;
+//import io.pharmatrace.api.scin.public.api.ActivitysApi;
 
 
 ActivitysApi apiInstance = new ActivitysApi();
